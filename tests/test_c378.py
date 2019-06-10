@@ -1,5 +1,5 @@
 import unittest
-from c378 import (
+from finished.c378 import (
     remove_zeros,
     sort_descending,
     number_greater_than_length_of_sequence,
